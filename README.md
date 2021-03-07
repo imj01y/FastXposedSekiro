@@ -1,0 +1,2 @@
+# FastXposedSekiro
+搭建好的xposed+sekiro项目，方便工作时快速开始编写xposed的rpc项目，以免每次都要手动重新配置
